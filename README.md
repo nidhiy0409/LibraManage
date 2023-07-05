@@ -1,4 +1,4 @@
-# Library Management System
+# LibraManage(Library Management System)
 
 The Library Management System is a console-based application implemented in C++. It allows students and librarians to perform various operations related to library management, such as viewing the book list, searching for books, modifying book details, issuing books, and more.
 
